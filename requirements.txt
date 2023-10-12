@@ -1,0 +1,4 @@
+memory-profiler==0.61.0
+emoji==2.8.0
+pandas==1.5.3
+apache_beam==2.50.0
